@@ -1,7 +1,5 @@
 # Producer consumer Problem in Kernel Space
 
-<br>
-
 ## Testing the Modifications
     
 <br>
