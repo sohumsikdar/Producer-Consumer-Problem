@@ -1,7 +1,5 @@
 # Producer consumer Problem in Kernel Space
 
-<i>In the diff files there is a diff of kern_2D_memcpy & kern_process_delay. Kindly Ignore.</i>
-
 <br>
 
 ## Testing the Modifications
